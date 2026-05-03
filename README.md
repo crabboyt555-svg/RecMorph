@@ -2,6 +2,8 @@
 
 # Early WIP — A community-driven reimplementation of the Rec Room servers, keeping Rec Room alive past June 1st, 2026.
 
+<img width="384" height="256" alt="70e793f9-c7c1-4c9f-872b-9ea876f311cc" src="https://github.com/user-attachments/assets/a0957b46-9f8e-49d9-8233-484e83d1d50b" />
+
 # Note
 This is my first time attempting a project of this scale, and reverse engineering stuff, so things may be rough around the edges. Bear with me!
 
