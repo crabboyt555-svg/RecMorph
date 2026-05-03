@@ -34,5 +34,7 @@ Client redirect — patching the client to point at our servers instead of offic
 ***Our approach:***
 
 **1.** Sniff and document traffic between the Rec Room client and official servers
+
 **2.** Reimplement each backend service
+
 **3.** Patch or proxy the client to use our servers
