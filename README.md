@@ -1,12 +1,11 @@
-<img width="1536" height="1024" alt="70e793f9-c7c1-4c9f-872b-9ea876f311cc" src="https://github.com/user-attachments/assets/ebd556ff-4e7c-4b53-9240-1b7b9d61adcb" />
-***RecMorph***
+# RecMorph
 
-Early WIP — A community-driven reimplementation of the Rec Room servers, keeping Rec Room alive past June 1st, 2026.
+# Early WIP — A community-driven reimplementation of the Rec Room servers, keeping Rec Room alive past June 1st, 2026.
 
-**Note**
+# Note
 This is my first time attempting a project of this scale, and reverse engineering stuff, so things may be rough around the edges. Bear with me!
 
-****DISCORD: https://discord.gg/3w6SRMT7kS****
+# DISCORD: https://discord.gg/3w6SRMT7kS
 
 **What is this?**
 
@@ -16,9 +15,9 @@ This is a preservation project, built by fans, for fans.
 
 **Status**
 
-This project is in very early development. Nothing is playable yet. We're currently in the research and reverse engineering phase.
+# This project is in very early development. Nothing is playable yet. We're currently in the research and reverse engineering phase.
 
-**Component	Status**
+Component
 Network protocol research	In progress — 20 subdomains discovered
 Account / auth server	Not started
 Room server	Not started
