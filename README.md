@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="70e793f9-c7c1-4c9f-872b-9ea876f311cc" src="https://github.com/user-attachments/assets/ebd556ff-4e7c-4b53-9240-1b7b9d61adcb" />
 ***RecMorph***
 
 Early WIP — A community-driven reimplementation of the Rec Room servers, keeping Rec Room alive past June 1st, 2026.
